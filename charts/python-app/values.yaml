@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: techfring/python-app-1
   pullPolicy: IfNotPresent
-  tag: python-app-1-dev-latest
+  tag: 8ec868
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
